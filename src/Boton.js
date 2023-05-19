@@ -4,7 +4,7 @@ class Boton extends Component{
 constructor(props){
     super(props);
     this.state = {
-        contador: 1000
+        contador: 2000
     }
 
     this.sumarMil = this.sumarMil.bind(this);
